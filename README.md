@@ -1,4 +1,6 @@
-# Couple-Trouble
-Best Valentine day game!
+# Couple Trouble
+CMU Tartan Hack 2020 Best Valentine Hack
 
-A game controlled by OpenCV, suitable for couples to play together.
+[youtube demo](https://www.youtube.com/watch?v=w7r6SNbJifU)
+[Link](https://devpost.com/software/couple-trouble)
+
